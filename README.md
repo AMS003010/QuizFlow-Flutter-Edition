@@ -1,2 +1,2 @@
 # QuizFlow-Flutter-Edition
-A Fast, Responsive Quiz app built with Flutter, written in Dart 
+A Fast, Responsive Quiz app built with Flutter UI, written in Dart 
